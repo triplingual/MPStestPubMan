@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 75,
+    "height" : 98
+  }, {
+    "width" : 150,
+    "height" : 195
+  }, {
+    "width" : 299,
+    "height" : 390
+  }, {
+    "width" : 597,
+    "height" : 779
+  }, {
+    "width" : 1194,
+    "height" : 1557
+  }, {
+    "width" : 2388,
+    "height" : 3113
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 2388,
+  "@id" : "https://mpstrickland.github.io/MPStestPubMan/images/Alanbrooke2_1_3_00145",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 3113
+}
