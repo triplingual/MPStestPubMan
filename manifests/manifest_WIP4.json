@@ -1,6 +1,6 @@
 {
   "@context" : "http://iiif.io/api/presentation/2/context.json",
-  "@id" : "https://mpstrickland.github.io/MPStestPubMan/manifests/manifest_WIP4.json",
+  "@id" : "https://triplingual.github.io/MPStestPubMan/manifests/manifest_WIP4.json",
   "@type" : "sc:Manifest",
   "label" : "Letters from Brooke to his mother, Alice Brooke, covering service in India with Royal Horse Artillery, Jan-Dec 1910, mainly comprising descriptions of hunting expeditions. ",
   "metadata" : [ ],
