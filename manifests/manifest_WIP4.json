@@ -1,0 +1,166 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://mpstrickland.github.io/MPStestPubMan/manifests/manifest_WIP4.json",
+  "@type" : "sc:Manifest",
+  "label" : "Letters from Brooke to his mother, Alice Brooke, covering service in India with Royal Horse Artillery, Jan-Dec 1910, mainly comprising descriptions of hunting expeditions. ",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "Bound with various related papers, mainly photographs and press cuttings. Back pocket contains related loose items, notably letters from Brooke to his brother, Victor Brooke, Sep 1910; press cuttings, 1910.\n1 vol, 14 loose items.",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "attribution" : "ALANBROOKE, FM Alan Francis, 1st Viscount Alanbrooke of Brookeborough (1883-1963)",
+  "sequences" : [ {
+    "@id" : "http://fb68a259-99d9-4864-be91-bb7e66c936ba",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://3eb156f5-8715-4726-ad7d-4c0a267348dd",
+      "@type" : "sc:Canvas",
+      "label" : "Letter1Recto",
+      "height" : 3135,
+      "width" : 2294,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://f0c865a0-0359-4228-96f6-f8bf57aa7263",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "http://127.0.0.1:8182/iiif/2/Alanbrooke2_1_3_00142.tif/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "http://127.0.0.1:8182/iiif/2/Alanbrooke2_1_3_00142.tif",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg", "tif", "gif", "png" ],
+              "maxArea" : 7191690,
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 3135,
+          "width" : 2294
+        },
+        "on" : "http://3eb156f5-8715-4726-ad7d-4c0a267348dd"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://523bdd9c-a119-4083-9066-9adf29bbe663",
+      "@type" : "sc:Canvas",
+      "label" : "Letter1Verso",
+      "height" : 3133,
+      "width" : 2371,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://913fbbfa-f18c-41c7-be84-f047095028f2",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "http://127.0.0.1:8182/iiif/2/Alanbrooke2_1_3_00143.tif/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "http://127.0.0.1:8182/iiif/2/Alanbrooke2_1_3_00143.tif",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg", "tif", "gif", "png" ],
+              "maxArea" : 7428343,
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 3133,
+          "width" : 2371
+        },
+        "on" : "http://523bdd9c-a119-4083-9066-9adf29bbe663"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://88d072a4-8c95-4de3-82e5-5e4fd3b1c4ae",
+      "@type" : "sc:Canvas",
+      "label" : "Letter2Recto",
+      "height" : 3127,
+      "width" : 2325,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://656c151c-9a99-4a68-a022-079a16b36122",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "http://127.0.0.1:8182/iiif/2/Alanbrooke2_1_3_00144.tif/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "http://127.0.0.1:8182/iiif/2/Alanbrooke2_1_3_00144.tif",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg", "tif", "gif", "png" ],
+              "maxArea" : 7270275,
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 3127,
+          "width" : 2325
+        },
+        "on" : "http://88d072a4-8c95-4de3-82e5-5e4fd3b1c4ae"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://4fbb3f7f-8bbc-4b32-816b-1924023fd28f",
+      "@type" : "sc:Canvas",
+      "label" : "Letter2Verso",
+      "height" : 3113,
+      "width" : 2388,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://5a7948d2-f6c2-44a4-b189-568922edf206",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "http://127.0.0.1:8182/iiif/2/Alanbrooke2_1_3_00145.tif/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "http://127.0.0.1:8182/iiif/2/Alanbrooke2_1_3_00145.tif",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg", "tif", "gif", "png" ],
+              "maxArea" : 7433844,
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 3113,
+          "width" : 2388
+        },
+        "on" : "http://4fbb3f7f-8bbc-4b32-816b-1924023fd28f"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ {
+    "@id" : "http://b0cbb117-cf26-4e69-8dc4-0ad61578dd98/top",
+    "@type" : "sc:Range",
+    "label" : "Table of Content",
+    "viewingHint" : "top",
+    "ranges" : [ "http://b0cbb117-cf26-4e69-8dc4-0ad61578dd98/letter1", "http://b0cbb117-cf26-4e69-8dc4-0ad61578dd98/letter2" ]
+  }, {
+    "@id" : "http://b0cbb117-cf26-4e69-8dc4-0ad61578dd98/letter1",
+    "@type" : "sc:Range",
+    "label" : "Letter 1",
+    "canvases" : [ "http://3eb156f5-8715-4726-ad7d-4c0a267348dd", "http://523bdd9c-a119-4083-9066-9adf29bbe663" ]
+  }, {
+    "@id" : "http://b0cbb117-cf26-4e69-8dc4-0ad61578dd98/letter2",
+    "@type" : "sc:Range",
+    "label" : "Letter 2",
+    "canvases" : [ "http://88d072a4-8c95-4de3-82e5-5e4fd3b1c4ae", "http://4fbb3f7f-8bbc-4b32-816b-1924023fd28f" ]
+  } ],
+  "thumbnail" : {
+    "@id" : "http://3eb156f5-8715-4726-ad7d-4c0a267348dd"
+  }
+}
