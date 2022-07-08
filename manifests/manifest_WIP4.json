@@ -29,19 +29,9 @@
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
-          "@id" : "http://127.0.0.1:8182/iiif/2/Alanbrooke2_1_3_00142.tif/full/full/0/default.jpg",
+          "@id" : "https://raw.githubusercontent.com/mpstrickland/MPStestPubMan/main/images/Alanbrooke2_1_3_00142/full/full/0/default.jpg",
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
-          "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "http://127.0.0.1:8182/iiif/2/Alanbrooke2_1_3_00142.tif",
-            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
-              "formats" : [ "jpg", "tif", "gif", "png" ],
-              "maxArea" : 7191690,
-              "qualities" : [ "bitonal", "default", "gray", "color" ],
-              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
-            } ]
-          },
           "height" : 3135,
           "width" : 2294
         },
@@ -60,19 +50,9 @@
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
-          "@id" : "http://127.0.0.1:8182/iiif/2/Alanbrooke2_1_3_00143.tif/full/full/0/default.jpg",
+          "@id" : "https://raw.githubusercontent.com/mpstrickland/MPStestPubMan/main/images/Alanbrooke2_1_3_00143/full/full/0/default.jpg",
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
-          "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "http://127.0.0.1:8182/iiif/2/Alanbrooke2_1_3_00143.tif",
-            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
-              "formats" : [ "jpg", "tif", "gif", "png" ],
-              "maxArea" : 7428343,
-              "qualities" : [ "bitonal", "default", "gray", "color" ],
-              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
-            } ]
-          },
           "height" : 3133,
           "width" : 2371
         },
@@ -91,19 +71,9 @@
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
-          "@id" : "http://127.0.0.1:8182/iiif/2/Alanbrooke2_1_3_00144.tif/full/full/0/default.jpg",
+          "@id" : "https://raw.githubusercontent.com/mpstrickland/MPStestPubMan/main/images/Alanbrooke2_1_3_00144/full/full/0/default.jpg",
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
-          "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "http://127.0.0.1:8182/iiif/2/Alanbrooke2_1_3_00144.tif",
-            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
-              "formats" : [ "jpg", "tif", "gif", "png" ],
-              "maxArea" : 7270275,
-              "qualities" : [ "bitonal", "default", "gray", "color" ],
-              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
-            } ]
-          },
           "height" : 3127,
           "width" : 2325
         },
@@ -122,19 +92,9 @@
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
-          "@id" : "http://127.0.0.1:8182/iiif/2/Alanbrooke2_1_3_00145.tif/full/full/0/default.jpg",
+          "@id" : "https://raw.githubusercontent.com/mpstrickland/MPStestPubMan/main/images/Alanbrooke2_1_3_00145/full/full/0/default.jpg",
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
-          "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "http://127.0.0.1:8182/iiif/2/Alanbrooke2_1_3_00145.tif",
-            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
-              "formats" : [ "jpg", "tif", "gif", "png" ],
-              "maxArea" : 7433844,
-              "qualities" : [ "bitonal", "default", "gray", "color" ],
-              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
-            } ]
-          },
           "height" : 3113,
           "width" : 2388
         },
