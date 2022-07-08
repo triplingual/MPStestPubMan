@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 1421,
+    "id" : "https://mpstrickland.github.io/MPStestPubMan/images/19551956003/canvas/",
+    "label" : {
+      "none" : [ "19551956003" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://mpstrickland.github.io/MPStestPubMan/images/19551956003/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://mpstrickland.github.io/MPStestPubMan/images/19551956003/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 45,
+              "height" : 77
+            }, {
+              "width" : 89,
+              "height" : 154
+            }, {
+              "width" : 178,
+              "height" : 307
+            }, {
+              "width" : 356,
+              "height" : 613
+            }, {
+              "width" : 711,
+              "height" : 1226
+            }, {
+              "width" : 1421,
+              "height" : 2452
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 1421,
+            "@id" : "https://mpstrickland.github.io/MPStestPubMan/images/19551956003",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 2452
+          } ],
+          "format" : "image/jpeg",
+          "width" : 1421,
+          "id" : "https://mpstrickland.github.io/MPStestPubMan/images/19551956003/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 2452
+        },
+        "target" : "https://mpstrickland.github.io/MPStestPubMan/images/19551956003/canvas/"
+      } ]
+    } ],
+    "height" : 2452
+  }, {
     "width" : 2294,
     "id" : "https://mpstrickland.github.io/MPStestPubMan/images/Alanbrooke2_1_3_00142/canvas/",
     "label" : {
